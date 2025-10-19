@@ -18,4 +18,7 @@
 - 1.Exampple: =C5/C$2 to check the percentage and used % from the numbers menu to change the values to percentage.
 - 2.Used =OR formula to check the reuslt based on the percentage.
   Example : =OR(H5<0.5,I5<0.5,J5<0.5,K5<0.5)
--3.Gave values the icon sets to visually differenciate the values from conditional formatting menu.
+- 3.Gave values the icon sets to visually differenciate the values from conditional formatting menu.
+- 4.Highlighted the percentage with low value using highlight cells rules from conditional formatting.
+- 5.Created charts using the vales.
+- [Grade_Book.xlsx](https://github.com/user-attachments/files/22988548/Grade_Book.xlsx)
