@@ -33,10 +33,10 @@
 - ** Created Sales_data Excel.
 - 1.In Excel you can use "Wrap Text" option fron alignment section to show full test from the cells.
 - 2."Text to columns" is used to divide the text into a seperate column from Data Menu.
-- 3. Used "IF" formula to calculate percentages of money for each person [Ex:=IF(F2>50,G2*0.2,G2*0.1)].
-- 4. Used "SUMIF" to determine certairn values above or below some values based on the requirement [Ex:=IF(F2>50,G2*0.2,G2*0.1)].
-- 5. "Sort" option helps to see that values according to the data you have selected form Data Menu.
-- 6. "Filter" to see only the selected values or names.
-- 7. "Pivot Table" to see the end reslut in a detailes manner and to see only is absolutly required for that we'll have to select all the data and select Pivot Tabel from the Insert Menu.
-- 8. Created "Pie Chart" from Insert Menu- Charts, to see it in a more simple and detailed manner.
+- 3.Used "IF" formula to calculate percentages of money for each person [Ex:=IF(F2>50,G2*0.2,G2*0.1)].
+- 4.Used "SUMIF" to determine certairn values above or below some values based on the requirement [Ex:=IF(F2>50,G2*0.2,G2*0.1)].
+- 5."Sort" option helps to see that values according to the data you have selected form Data Menu.
+- 6."Filter" to see only the selected values or names.
+- 7."Pivot Table" to see the end reslut in a detailes manner and to see only is absolutly required for that we'll have to select all the data and select Pivot Tabel from the Insert Menu.
+- 8.Created "Pie Chart" from Insert Menu- Charts, to see it in a more simple and detailed manner.
 -  [Sales_Data.xlsx](https://github.com/user-attachments/files/23070886/Sales_Data.xlsx).
