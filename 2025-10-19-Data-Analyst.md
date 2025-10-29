@@ -40,3 +40,14 @@
 - 7."Pivot Table" to see the end reslut in a detailes manner and to see only is absolutly required for that we'll have to select all the data and select Pivot Tabel from the Insert Menu.
 - 8.Created "Pie Chart" from Insert Menu- Charts, to see it in a more simple and detailed manner.
 -  [Sales_Data.xlsx](https://github.com/user-attachments/files/23070886/Sales_Data.xlsx).
+
+  ### Day 05:
+- ** Created Car_Inventory Excel.
+- 1.Imported Text files to excel.
+- 2.Used formulas to split using =Left, =Right, =Mid.
+- 3.Used =VLOOKUP formula to reference the text.
+- 4.Used =IF formula to calculate the data.
+- 5.=CONCATONATE formula for adding multiple rows info into one.
+- 6.Created Pivot Tables to compare the data i require.
+- 7.Created Charts to visualize the data.
+-  [car inventory.txt.xlsx](https://github.com/user-attachments/files/23201379/car.inventory.txt.xlsx)
